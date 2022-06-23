@@ -29,7 +29,7 @@
 * apt upgrade
 * apt install toilet figlet git wget curl ruby
 * gem install lolcat
-* git clone https://github.com/isuruwa/CoronaStat-Bot
+* git clone https://github.com/Transmetal/CoronaStat-Bot-main
 * cd CoronaStat-Bot
 * bash coronastat-bot.sh
 
